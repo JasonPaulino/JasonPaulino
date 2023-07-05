@@ -1,5 +1,15 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on: A Software Engineering Fellowship at The Marcy Lab School where I am completing 2,000 hours of coursework in web development, CS fundamentals, and leadership development.<br>👯 I’m looking to collaborate on: Innovative projects utilizing JavaScript, PostgreSQL, HTML, CSS, React, and Node.js. I'm particularly interested in applications that have a significant impact on users and communities.<br>🤝 I’m looking for help with: Gaining more professional experience in the tech industry, particularly in roles where I can leverage my software engineering skills and learn new ones. I'm eager to tackle real-world challenges and contribute to a team's success.<br>🌱 I’m currently learning: Blockchain development with Solidity. I believe blockchain is the future of secure, decentralized transactions and I'm excited to dive deep into its potential applications.<br>💬 Ask me about: My experiences developing applications like RecyClique and Health Hive. I'm passionate about sharing the process, challenges, and triumphs that go into creating impactful digital solutions.<br>⚡ Fun fact: When I'm not busy with code, I love to play Ping-Pong. Being left-handed, I bring a unique spin to the game, quite literally! Just like in coding, it's about thinking a few steps ahead and being able to swiftly adapt.
+<br>🔭 I’m currently working on: A Software Engineering Fellowship at The Marcy Lab School where I am completing 2,000 hours of coursework in web development, CS fundamentals, and leadership development.<br>
+
+👯 I’m looking to collaborate on: Innovative projects utilizing JavaScript, PostgreSQL, HTML, CSS, React, and Node.js. I'm particularly interested in applications that have a significant impact on users and communities.<br>
+
+🤝 I’m looking for help with: Gaining more professional experience in the tech industry, particularly in roles where I can leverage my software engineering skills and learn new ones. I'm eager to tackle real-world challenges and contribute to a team's success.<br>
+
+🌱 I’m currently learning: Blockchain development with Solidity. I believe blockchain is the future of secure, decentralized transactions and I'm excited to dive deep into its potential applications.<br>
+
+💬 Ask me about: My experiences developing applications like RecyClique and Health Hive. I'm passionate about sharing the process, challenges, and triumphs that go into creating impactful digital solutions.<br>
+
+⚡ Fun fact: When I'm not busy with code, I love to play Ping-Pong. Being left-handed, I bring a unique spin to the game, quite literally! Just like in coding, it's about thinking a few steps ahead and being able to swiftly adapt.
 
 
 ## 🌐 Socials:
