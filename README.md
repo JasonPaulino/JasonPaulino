@@ -5,7 +5,7 @@
 
 🤝 I’m looking for help with: Gaining more professional experience in the tech industry, particularly in roles where I can leverage my software engineering skills and learn new ones. I'm eager to tackle real-world challenges and contribute to a team's success.<br>
 
-🌱 I’m currently learning: Blockchain development with Solidity. I believe blockchain is the future of secure, decentralized transactions and I'm excited to dive deep into its potential applications.<br>
+🌱 I’m currently learning: Python and Solidity for blockchain development.
 
 💬 Ask me about: My experiences developing applications like RecyClique and Health Hive. I'm passionate about sharing the process, challenges, and triumphs that go into creating impactful digital solutions.<br>
 
