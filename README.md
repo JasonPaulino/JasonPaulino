@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=860&lines=Go+%7C+TypeScript+%7C+React;Jason+Paulino;Software+Engineer+who+likes+to+just+build.;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=860&lines=Go+%7C+TypeScript+%7C+React;Jason+Paulino;Always+learning" />
 </p>
 
 ```bash
