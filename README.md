@@ -19,7 +19,7 @@ jasonpaulino@github:~$ cat ~/.profile.json
   "activeLearner": true,
   "isLazy": null,
   "origins": "Bronx, New York",
-  "currentHabitat": "San Jose, CA",
+  "currentHabitat": "Bronx, New York",
   "currentlyExploring": [
     "Go",
     "System Design",
